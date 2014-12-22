@@ -4,5 +4,13 @@ public class Main {
 	{
 		System.out.println("bla bla");
 		System.out.println("Aletceva");
+		System.out.println("bubulina");
+		
+		printMessage("dididong");
+	}
+	
+	private static void printMessage(String mesaj)
+	{
+		System.out.println(mesaj);
 	}
 }
