@@ -11,6 +11,5 @@ public class Main {
 	private static void printMessage(String mesaj)
 	{
 		System.out.println(mesaj);
-		System.out.println("IncaCeva");
 	}
 }
