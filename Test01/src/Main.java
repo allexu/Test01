@@ -4,7 +4,6 @@ public class Main {
 	{
 		System.out.println("bla bla");
 		System.out.println("Aletceva");
-		System.out.println("bubulina");
 		
 		printMessage("dididong");
 	}
@@ -12,5 +11,6 @@ public class Main {
 	private static void printMessage(String mesaj)
 	{
 		System.out.println(mesaj);
+		System.out.println("IncaCeva");
 	}
 }
